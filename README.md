@@ -1,6 +1,8 @@
 # Who is being left out by public transport?
 **An analysis of public transport quality and accessibility in Santiago, Chile**  
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/igarizio/santiago-public-transport-analysis/HEAD?filepath=public_transport_analysis.ipynb)
+
 Chile is a country with high income inequality. Among OECD members, it has the [highest Gini coefficient](https://data.oecd.org/chart/6dzX) [2017] and the [highest Palma ratio](https://data.oecd.org/chart/6dzY) [2017]. Half of the Chilean workers [earn $564 a month or less](https://www.ine.cl/prensa/2020/10/26/ingreso-laboral-promedio-mensual-en-chile-fue-de-$620.528-en-2019) [2019] and the [richest 1% concentrate 26,5% of the wealth](https://repositorio.cepal.org/bitstream/handle/11362/44395/11/S1900051_es.pdf) [2019].
 
 Having this context in mind, it is no surprise that Santiago (Chile's capital) is highly segregated in terms of income. However, not only income levels are distinctly dispersed across the city, but also parks, health services, high-quality schools, and many others. Because of this, I wanted to analyze **how public transport, another key aspect of urban-life, is distributed, and if there are there any communities that are being underserved**.
