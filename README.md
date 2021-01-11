@@ -16,7 +16,7 @@ On the average city block, a person can access 7.8 different bus routes or Metro
 
 # Conclusion
 The analysis has shown that the response to the question **"Who is being left out by public transport?"** depends on what we understand by being *left out*. If we understand being *left out* as having a high distance to the nearest bus stop or Metro station, we see that the outskirts of the city and some dispersed low-connectivity patches are the most underserved.
-If we now consider being *left out* as having a low number of buses or routes passing through the nearest stops, then the only areas extremely well-served are the ones near main roads. However, despite the differences in the results obtained by each metric, there is one group that is constantly shown as having the worst quality and accessibility in terms of public transport: the outskirts of the city.
+If we now consider being *left out* as having a low number of buses, trains, or routes available, then the only areas well-served are the ones near main roads. However, despite the differences in the results obtained by each metric, there is one group that is constantly shown as having the worst quality and accessibility in terms of public transport: the outskirts of the city.
 
 # Methodology and more maps
 - Complete analysis: [public_transport_analysis.ipynb](/public_transport_analysis.ipynb)
